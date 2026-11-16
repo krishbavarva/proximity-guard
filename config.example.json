@@ -1,0 +1,12 @@
+{
+  "alertTopic": "",
+  "approvalSeconds": 90,
+  "maxAttempts": 3,
+  "maxPushPer10Min": 3,
+  "checkEverySeconds": 2,
+  "theftAlerts": true,
+  "trackEveryMinutes": 3,
+  "libraryHours": 4,
+  "backupCodeSalt": "",
+  "backupCodeHash": ""
+}

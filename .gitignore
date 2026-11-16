@@ -1,0 +1,7 @@
+# Contains your ntfy topic (secret) and backup-code hash
+config.json
+# Personal activity log
+guard.log
+# Runtime state (queued alerts, library mode)
+pending.txt
+library.flag
